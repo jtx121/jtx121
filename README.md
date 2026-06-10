@@ -9,6 +9,9 @@
 
 ---
 
+<div align="center"><pre>　　　／＞　　フ　　　| 　_　 _ l　 　／` ミ＿xノ　 /　　　　 |　/　 ヽ　　 ﾉ/│　　ヽ｜｜│　　　　|　|│　　　　|　|│　　　　|　|│　　　　|　|╰─┬─┬─┘└─┬─┘　　│　│　　│　│　　│　│　　│　│　　└─┘　　└─┘</pre></div>
+
+
 ## 📊 GitHub 数据总览
 <table align="center">
   <tr>

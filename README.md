@@ -59,11 +59,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=333">
 </div>
 
-## 🎧 正在收听（绑定Spotify即可自动刷新）
-<div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" width="70%">
-</div>
-
 ## 🎮 我的日常爱好
 <div align="center">
   <table>

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello I am jtx121 👋</h1>
+  <h1>Hello I am Aynao 👋</h1>
   <p>生命不息，折腾不止</p>
 </div>
 
@@ -56,12 +56,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=333">
 </div>
 
-## 📦 精选项目展示
-> 把下方 `仓库名` 替换成你自己的仓库名称即可展示卡片
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jtx121&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jtx121&repo=仓库名2&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
-</div>
 
 ## 💡 日常状态小模块
 ### 随机励志语录

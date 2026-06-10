@@ -81,9 +81,8 @@
   <a href="https://github.com/jtx121" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <!-- 自行开启补充 -->
-  <!-- <a href="你的个人博客地址">
-    <img src="https://img.shields.io/badge/Blog-FF4500?style=for-the-badge&logo=blogger&logoColor=white">
+  <a href="你的个人博客地址">
+    <img src="https:ayano.cn">
   </a>
   <a href="mailto:2101515781@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">

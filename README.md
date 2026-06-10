@@ -10,8 +10,21 @@
 ---
 
 ## 📊 GitHub 数据总览
-<table align="center"><tr><!-- 左栏 --><td align="center"><img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420"><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420"></td><!-- 右栏 --><td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="420"><br><br><img src="https://ghchart.rshah.org/4039ba/jtx121" width="420"></td></tr></table
-
+<div align="center">
+  <!-- 第一行：两张并排 -->
+  <div style="display:flex;justify-content:center;gap:12px;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="480">
+      <br><br>
+      <!-- 第三张放在第一张正下方 -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="480">
+    </div>
+    <!-- 第二张单独一列 -->
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="480">
+    </div>
+  </div>
+</div>
 ## 🗓️ 全年贡献热力图
 <div align="center">
   <img src="https://ghchart.rshah.org/4169e1/jtx121" width="90%">

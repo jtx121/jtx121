@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="180" height="180" src="https://github-readme-stats.vercel.app/api/avatar?username=jtx121" alt="avatar">
   <h1>Hello I am jtx121 👋</h1>
   <p>Code Lover | Open Source Learner | Lifelong Progress</p>
 </div>

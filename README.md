@@ -10,20 +10,8 @@
 ---
 
 ## 📊 GitHub 数据总览
-<table align="center">
-  <tr>
-    <!-- 左栏 -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420">
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420">
-    </td>
-    <!-- 右栏 -->
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="420">
-    </td>
-  </tr>
-</table>
+<table align="center"><tr><!-- 左栏 --><td align="center"><img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420"><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="420"></td><!-- 右栏 --><td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="420"><br><br><img src="https://github-profile-trophy.vercel.app/?username=jtx121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" width="420"></td></tr></table>
+
 ## 🗓️ 全年贡献热力图
 <div align="center">
   <img src="https://ghchart.rshah.org/4169e1/jtx121" width="90%">

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello I am jtx121 👋</h1>
-  <p>Code Lover | Open Source Learner | Lifelong Progress</p>
+  <p>生命不息，折腾不止</p>
 </div>
 
 ---

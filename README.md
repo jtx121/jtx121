@@ -11,14 +11,14 @@
 
 ## 📊 GitHub 数据总览
 <div align="center">
-  <!-- 账号总统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%">
-  <!-- 连续打卡天数 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="49%">
-</div>
-<div align="center" style="margin-top:10px">
-  <!-- 常用语言分布 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%">
+  <!-- 账号总统计 竖排第一张 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jtx121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="75%">
+  <br><br>
+  <!-- 连续打卡天数 竖排第二张 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="75%">
+  <br><br>
+  <!-- 常用语言分布 竖排第三张 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="75%">
 </div>
 
 ## 🗓️ 全年贡献热力图

@@ -26,11 +26,6 @@
   </tr>
 </table>
 
-## 🗓️ 全年贡献热力图
-<div align="center">
-  <img src="https://ghchart.rshah.org/4169e1/jtx121" width="90%">
-</div>
-
 ## 🛠️ 技术栈 & 工具
 ### 编程语言
 <div align="left">

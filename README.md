@@ -3,6 +3,10 @@
   <p>生命不息，折腾不止</p>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Aynao;Full+Stack+Learner;Keep+Coding;Life+is+for+tinkering&theme=tokyonight" />
+</div>
+
 ---
 
 ## 📊 GitHub 数据总览
@@ -15,6 +19,11 @@
 <div align="center" style="margin-top:10px">
   <!-- 常用语言分布 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%">
+</div>
+
+## 🏆 开源成就奖杯
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jtx121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
 </div>
 
 ## 🗓️ 全年贡献热力图
@@ -50,41 +59,36 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=333">
 </div>
 
-
-## 💡 日常状态小模块
-### 随机励志语录
+## 🎧 正在收听（绑定Spotify即可自动刷新）
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" width="70%">
 </div>
 
-### 访客访问统计
-<div align="center" style="margin:15px 0">
-  <span>页面访问人数：</span>
-  <img src="https://profile-counter.glitch.me/jtx121/count.svg">
-</div>
-
-### 代码时长统计（可选，配置WakaTime后启用）
-<!--
+## 🎮 我的日常爱好
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=你的wakatimeID&theme=tokyonight&hide_border=true" width="70%">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <h4>🎵 听歌</h4>
+      </td>
+      <td align="center" width="140">
+        <h4>🎮 游戏</h4>
+      </td>
+      <td align="center" width="140">
+        <h4>📖 看书</h4>
+      </td>
+      <td align="center" width="140">
+        <h4>☕ 敲代码</h4>
+      </td>
+    </tr>
+  </table>
 </div>
--->
 
-## 📫 联系方式
-<div align="center">
-  <a href="https://github.com/jtx121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="你的个人博客地址">
-    <img src="https:ayano.cn">
-  </a>
-  <a href="mailto:2101515781@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
-</div>
-
----
-
-<div align="center">
-  <p>⭐ 欢迎 Star、Fork、交流学习 | Keep coding every day</p>
-</div>
+## 📝 程序员风格档案
+```yaml
+name: Aynao
+code_slogan: 生命不息，折腾不止
+work_state: 持续搬砖学习中
+mood: 永远保持好奇心
+sleep_time: 经常熬夜改bug
+coffee: 续命必需品

@@ -12,7 +12,6 @@
   <!-- 连续打卡天数 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtx121&theme=tokyonight&hide_border=true&background=0d1117" width="49%">
 </div>
-
 <div align="center" style="margin-top:10px">
   <!-- 常用语言分布 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%">

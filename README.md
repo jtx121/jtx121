@@ -17,11 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtx121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="50%">
 </div>
 
-## 🏆 开源成就奖杯
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtx121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6">
-</div>
-
 ## 🗓️ 全年贡献热力图
 <div align="center">
   <img src="https://ghchart.rshah.org/4169e1/jtx121" width="90%">
